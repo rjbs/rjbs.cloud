@@ -19,7 +19,7 @@ wildly.  Ask me to come speak for your group!
         <img class="talk-image" src="{{ talk.image }}" alt="{{ talk.title }}">
       </a>
     {% else %}
-      {% assign image_path = '/talks/' | append: talk_dir | append: "preview.jpg" %}
+      {% assign image_path = '/talks/' | append: talk_dir | append: "preview.webp" %}
       <a href="{{ talk.url }}">
         <object class="talk-image" data="{{ image_path }}">
         </object>

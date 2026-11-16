@@ -6,7 +6,7 @@ layout: default
 {% if page.image %}
   <img class="talk-page-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% else %}
-  {% assign image_path = '/talks/' | append: talk_dir | append: "preview.jpg" %}
+  {% assign image_path = '/talks/' | append: talk_dir | append: "preview.webp" %}
   <object class="talk-page-image" data="{{ image_path }}">
   </object>
 {% endif %}
