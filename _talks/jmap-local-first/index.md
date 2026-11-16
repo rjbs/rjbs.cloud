@@ -1,7 +1,7 @@
 ---
 title: "JMAP, because IMAP was terrible"
 description: "(but also good, actually)"
-date: 2025-07-27
+date: 2026-07-27
 tags: [ email, programming ]
 urls:
   - label: Video
