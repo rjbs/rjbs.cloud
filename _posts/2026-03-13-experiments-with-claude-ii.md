@@ -31,7 +31,7 @@ still on my old website, where it was manually-written HTML.  My current site
 is Jekyll, built by GitHub Pages, the definition of "good enough".  By hand, I
 got the talks page into Jekyll, as a horrible hybrid of Markdown and the old
 HTML.  You can read the state I got it into in [the last
-commit](https://github.com/rjbs/rjbs.github.io/commit/a59e08cc4fa5a410dc0b227ab5bb7b901bebcf6a)
+commit](https://github.com/rjbs/rjbs.cloud/commit/a59e08cc4fa5a410dc0b227ab5bb7b901bebcf6a)
 before I invited Claude to the party.
 
 I prompted Claude with this:
@@ -49,7 +49,7 @@ version is that I spend about 20 minutes engaged with Claude.  (There are some
 hours-long waits in there while I did things like "go to dinner".)  Claude very
 quickly updated my repo to do just what I asked.  It looked pretty good, too,
 and produced [a pretty straightforward
-commit](https://github.com/rjbs/rjbs.github.io/commit/f049dc1d3644f9972984527ea16462a521144e83).
+commit](https://github.com/rjbs/rjbs.cloud/commit/f049dc1d3644f9972984527ea16462a521144e83).
 The commit message is crap: I wrote it, with an audience of "myself".
 
 The commit adds a bunch of CSS (SCSS), which very plausibly contains pointless
