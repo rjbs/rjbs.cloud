@@ -21,7 +21,7 @@ building it until I had a coding agent to greatly reduce the grunt work.  Once
 I did, and once I had enough confidence in the agent, I used it to build
 NerfJournal.  It's a bullet-journal style todo list, written in Swift.  Because
 I barely understood Swift, I also had the agent build a "[Learning Swift by
-Reading the NerfJournal Source](https://nerfjournal.rjbs.cloud/)" book, chapter
+Reading the NerfJournal Source](https://semiotic.systems/NerfJournal/)" book, chapter
 by chapter, based on my actual expertise and on my Q&A as I read each chapter.
 This was a big success for me on multiple fronts.  I got a productivity tool
 that has been a big help, I learned a lot more Swift, and I learned a lot more

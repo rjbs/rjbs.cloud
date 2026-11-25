@@ -132,5 +132,5 @@ is an unvarnished good, but it's also clearly not just spicy autocorrect.
 I'm hoping to get back to SwiftUI in a week or two.  I'm piling up a number of
 little features I'd like to implement, and might try a few by hand.
 
-You can read [NerfLearning](https://nerfjournal.rjbs.cloud/), up to wherever
+You can read [NerfLearning](https://semiotic.systems/NerfJournal/), up to wherever
 I've gotten to, if you like… but it's targeting a pretty darn small audience.
